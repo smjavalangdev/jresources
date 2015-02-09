@@ -20,21 +20,21 @@ Java Resources
 
 4. Libraries
    
-   [Google Guava Libraries](https://code.google.com/p/guava-libraries/)
+   - [Google Guava Libraries](https://code.google.com/p/guava-libraries/)
 
 
-   [EasyMock](http://easymock.org/user-guide.html)
+   - [EasyMock](http://easymock.org/user-guide.html)
    
 
-   [Facebook Commons - concurrency, collections, zookeeper, stats/analytics, config, testing](http://easymock.org/user-guide.html)
+   - [Facebook Commons - concurrency, collections, zookeeper, stats/analytics, config, testing](http://easymock.org/user-guide.html)
    
-   [Apache Giraph is an iterative graph processing system built for high scalability](http://giraph.apache.org/)
+   - [Apache Giraph is an iterative graph processing system built for high scalability](http://giraph.apache.org/)
    
    
-   [Java Stream Processing Framework](http://www.jwall.org/streams/)
+   - [Java Stream Processing Framework](http://www.jwall.org/streams/)
    
 
-   [Netflix Open Source Software Center](http://netflix.github.io/#repo)
+   - [Netflix Open Source Software Center](http://netflix.github.io/#repo)
    
 
 
