@@ -40,8 +40,8 @@ Java Resources
 
 5. Misc
     ####OSGI Containers  
-    [Karaf](http://karaf.apache.org/)
+    - [Karaf](http://karaf.apache.org/)
 
-    [Apache Felix](http://felix.apache.org/)
+    - [Apache Felix](http://felix.apache.org/)
     
   
