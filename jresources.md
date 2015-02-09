@@ -4,10 +4,8 @@ Java Resources
 
 
 1. Blogs
-   [Java 8 Features Part 1](http://blog.credera.com/technology-insights/java/java-8-part-1-lamdas-streams-functional-interfaces/)
-
-
-   [CPU Cache Essentials](http://meta-x86.blogspot.com/)
+   - [Java 8 Features Part 1](http://blog.credera.com/technology-insights/java/java-8-part-1-lamdas-streams-functional-interfaces/)
+   - [CPU Cache Essentials](http://meta-x86.blogspot.com/)
    
 
 2. Utilities
