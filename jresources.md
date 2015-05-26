@@ -13,6 +13,8 @@ Java Resources
 
    - [JBoss - Byteman simplifies testing and analyzing java programs](http://byteman.jboss.org/) 
    
+   - [Algorithms & Data structures](http://introcs.cs.princeton.edu/java/40algorithms/)
+   
 
 3. JVM
 
