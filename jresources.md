@@ -6,7 +6,7 @@ Java Resources
 1. Blogs
    - [Java 8 Features Part 1](http://blog.credera.com/technology-insights/java/java-8-part-1-lamdas-streams-functional-interfaces/)
    - [CPU Cache Essentials](http://meta-x86.blogspot.com/)
-   
+   - [Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 
 2. Utilities
    - [JMH - Java harness for building,running and analysis benchmarks](http://openjdk.java.net/projects/code-tools/jmh/)
