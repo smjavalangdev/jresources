@@ -3,7 +3,7 @@ JVM Cookbook
 
 ####JVM Safepoints
 Why a Java application was spending a significant amount of time paused, even when garbage collection cycles
-were only taking ~200ms. The issue turned out to be other safepoints.
+were only taking ~200ms? The issue turned out to be other safepoints.
 
 the VM uses safepoints to perform a variety of internal operations, and they involve pausing every Java thread. 
 Garbage collection is the most well known, but many other operations such as deoptimization, and revoking biased 
