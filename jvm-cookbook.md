@@ -1,4 +1,4 @@
 JVM Cookbook
 =============
 
-#### * JVM Safepoints
+####JVM Safepoints
