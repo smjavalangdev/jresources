@@ -10,9 +10,7 @@ Java Resources
 
 2. Utilities
    - [JMH - Java harness for building,running and analysis benchmarks](http://openjdk.java.net/projects/code-tools/jmh/)
-
    - [JBoss - Byteman simplifies testing and analyzing java programs](http://byteman.jboss.org/) 
-   
    - [Algorithms & Data structures](http://introcs.cs.princeton.edu/java/40algorithms/)
    
 
